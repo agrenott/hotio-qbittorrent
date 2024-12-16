@@ -11,6 +11,18 @@
       "legacy-ee97b77"
     ]
   },
+  "mine": {
+    "description": "Releases",
+    "hide": false,
+    "last_updated": "2024-12-16T23:02:46.000Z",
+    "last_updated_url": "https://github.com/agrenott/hotio-qbittorrent/actions/runs/12362848784",
+    "latest": true,
+    "tags": [
+      "mine",
+      "mine-5.0.2",
+      "mine-76e95e7"
+    ]
+  },
   "release": {
     "description": "Releases",
     "hide": false,
