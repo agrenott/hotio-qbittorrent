@@ -6,9 +6,9 @@
   "test_amd64": true,
   "test_arm64": true,
   "test_url": "http://localhost:8080",
-  "upstream_digest_amd64": "sha256:e025116aad78fefd8591c3537968b9089e6866c17b7c93eac456b4c76acb89e9",
-  "upstream_digest_arm64": "sha256:f817cb74d4d4cadcd10084a12964fce5c4ebfdb063c02a609e4e7311537824d7",
-  "upstream_image": "ghcr.io/hotio/base",
+  "upstream_digest_amd64": "sha256:7ede920d4f0703e3d25277e3a53e363412d19e4ed3f5ff4d8d4e74a1b03936bb",
+  "upstream_digest_arm64": "sha256:0d186127d2877cd76231e7515dd299b14a3df91245d27ee6be9718ce0a00a345",
+  "upstream_image": "ghcr.io/agrenott/hotio-base",
   "upstream_tag": "alpinevpn",
   "version": "5.0.2",
   "vuetorrent_version": "2.19.0"
